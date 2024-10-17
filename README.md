@@ -1,5 +1,5 @@
 # My_study
-Решения  задач, лекции и сертификаты курсов пользователя LiquidVac:
+Решения  задач, лекции и сертификаты курсов пользователя [LiquidVac](https://github.com/LiquidVac/My_study):
 
   - [STEPIK. ML алгоритмы](https://github.com/hishrau/LiquidVacConspect/tree/main/STEPIK.%20ML%20%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B)
   - [STEPIK. Анализ данных в R](https://github.com/hishrau/LiquidVacConspect/tree/main/STEPIK.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20R)
